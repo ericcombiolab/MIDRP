@@ -1,0 +1,34 @@
+Categorical (single),20117,Alcohol drinker status
+Categorical (single),1558,Alcohol intake frequency.
+Categorical (single),1369,Beef intake
+Integer,1438,Bread intake
+Categorical (single),1448,Bread type
+Categorical (single),1408,Cheese intake
+Integer,1309,Fresh fruit intake
+Categorical (single),1518,Hot drink temperature
+Categorical (single),1379,Lamb/mutton intake
+Categorical (single),1538,Major dietary changes in the last 5 years
+Categorical (multiple),6144,"Never eat eggs, dairy, wheat, sugar"
+Categorical (single),1389,Pork intake
+Categorical (single),1349,Processed meat intake
+Categorical (single),1428,Spread type
+Categorical (single),1548,Variation in diet
+Categorical (single),2237,Plays computer games
+Categorical (single),943,Frequency of stair climbing in last 4 weeks
+Integer,884,Number of days/week of moderate physical activity 10+ minutes
+Integer,904,Number of days/week of vigorous physical activity 10+ minutes
+Integer,864,Number of days/week walked 10+ minutes
+Categorical (single),924,Usual walking pace
+Categorical (single),2129,Answered sexual history questions
+Categorical (single),1220,Daytime dozing / sleeping (narcolepsy)
+Categorical (single),1190,Nap during day
+Integer,1160,Sleep duration
+Categorical (single),1200,Sleeplessness / insomnia
+Categorical (single),1239,Current tobacco smoking
+Categorical (single),20160,Ever smoked
+Categorical (single),20116,Smoking status
+Categorical (single),2110,Able to confide
+Categorical (single),1727,Ease of skin tanning
+Categorical (single),1747,"Hair colour (natural, before greying)"
+Categorical (single),1717,Skin colour
+Categorical (single),2267,Use of sun/uv protection

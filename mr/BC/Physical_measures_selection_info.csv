@@ -1,0 +1,39 @@
+Integer,96,Time since interview start at which blood pressure screen(s) shown
+Continuous,23124,Arm fat mass (left)
+Continuous,23120,Arm fat mass (right)
+Continuous,23123,Arm fat percentage (left)
+Continuous,23119,Arm fat percentage (right)
+Continuous,23125,Arm fat-free mass (left)
+Continuous,23121,Arm fat-free mass (right)
+Continuous,23126,Arm predicted mass (left)
+Continuous,23122,Arm predicted mass (right)
+Continuous,23099,Body fat percentage
+Continuous,23104,Body mass index (BMI)
+Continuous,23110,Impedance of arm (left)
+Continuous,23109,Impedance of arm (right)
+Continuous,23108,Impedance of leg (left)
+Continuous,23107,Impedance of leg (right)
+Continuous,23106,Impedance of whole body
+Continuous,23116,Leg fat mass (left)
+Continuous,23112,Leg fat mass (right)
+Continuous,23115,Leg fat percentage (left)
+Continuous,23111,Leg fat percentage (right)
+Continuous,23117,Leg fat-free mass (left)
+Continuous,23113,Leg fat-free mass (right)
+Continuous,23118,Leg predicted mass (left)
+Continuous,23114,Leg predicted mass (right)
+Continuous,23128,Trunk fat mass
+Continuous,23129,Trunk fat-free mass
+Continuous,23130,Trunk predicted mass
+Continuous,23098,Weight
+Continuous,23100,Whole body fat mass
+Continuous,23101,Whole body fat-free mass
+Continuous,23102,Whole body water mass
+Continuous,49,Hip circumference
+Continuous,51,Seated height
+Categorical (single),3077,Seating box height
+Continuous,50,Standing height
+Continuous,48,Waist circumference
+Integer,46,Hand grip strength (left)
+Integer,47,Hand grip strength (right)
+Categorical (single),3088,Contra-indications for spirometry

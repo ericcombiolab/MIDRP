@@ -1,0 +1,22 @@
+Categorical (single),20117,Alcohol drinker status
+Categorical (single),1558,Alcohol intake frequency.
+Categorical (single),1448,Bread type
+Integer,1458,Cereal intake
+Categorical (single),1408,Cheese intake
+Integer,1289,Cooked vegetable intake
+Integer,1309,Fresh fruit intake
+Categorical (single),1379,Lamb/mutton intake
+Categorical (single),1538,Major dietary changes in the last 5 years
+Categorical (single),1418,Milk type used
+Categorical (single),1339,Non-oily fish intake
+Categorical (single),1329,Oily fish intake
+Categorical (single),1110,Length of mobile phone use
+Categorical (single),2237,Plays computer games
+Categorical (single),943,Frequency of stair climbing in last 4 weeks
+Categorical (single),2129,Answered sexual history questions
+Integer,1160,Sleep duration
+Categorical (single),1200,Sleeplessness / insomnia
+Categorical (single),1239,Current tobacco smoking
+Categorical (single),2110,Able to confide
+Categorical (single),1031,Frequency of friend/family visits
+Categorical (single),2267,Use of sun/uv protection
